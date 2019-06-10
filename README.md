@@ -7,6 +7,6 @@ thuat toan tren khong gian 1 chieu, tren khong gian n chieu co vector tuong ung
   lap lai den het.
   * sau do tinh lai centroid.
   * khi nao tap hop khong thay doi nua thi dung thuat toan
-# thuat toan mo phong qua trinh phan cum du theo diem centroid.
-# dua tren khoang cach tu diem den centroid de phan cum cac diem vao cum tuong ung
-# start: node server;
+- thuat toan mo phong qua trinh phan cum du theo diem centroid.
+- dua tren khoang cach tu diem den centroid de phan cum cac diem vao cum tuong ung
+- start: node server;
